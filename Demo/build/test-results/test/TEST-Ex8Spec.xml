@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Ex8Spec" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-03-23T17:06:53" hostname="arpit-sohar" time="0.018">
+  <properties/>
+  <testcase name="Conversion of String" classname="Ex8Spec" time="0.018"/>
+  <system-out><![CDATA[After reverse : dfjbfjbfjgjkfg
+After remove character : gfkjfbjfd
+After reverse : dffkftiyotoyiti
+After remove character : itiytfkffd
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

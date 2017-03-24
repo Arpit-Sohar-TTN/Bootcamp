@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Ex2Spec" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-03-23T17:06:54" hostname="arpit-sohar" time="0.005">
+  <properties/>
+  <testcase name="Test the unique characters[0]" classname="Ex2Spec" time="0.004"/>
+  <testcase name="Test the unique characters[1]" classname="Ex2Spec" time="0.0"/>
+  <system-out><![CDATA[H
+e
+o
+a
+e
+g
+h
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

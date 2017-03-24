@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Ex4Spec" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-03-23T17:06:54" hostname="arpit-sohar" time="0.004">
+  <properties/>
+  <testcase name="Calculating the percentages [0]" classname="Ex4Spec" time="0.004"/>
+  <system-out><![CDATA[LowerCase : 6.0
+UpperCase : 5.0
+SpecialChar : 5.0
+Digits : 5.0
+21.0
+LowerCase % : 28.571428571428573
+UpperCase % : 23.80952380952381
+SpecialChar % : 23.80952380952381
+Digits % : 23.80952380952381
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
